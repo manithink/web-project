@@ -50,7 +50,7 @@ background-color:#BDB76B;
 
 </style>
 
-
+<p>Think</p>
 <p>
           <img src="E:\photo\phoos\From NOKIA Lumia 610\Saved pictures\2.jpg"  style="float:left" width="200" height="200"> 
 </p>
